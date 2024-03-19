@@ -1,4 +1,4 @@
-👋 Hi, I’m Ameer Khan
+### 👋 Hi, I’m Ameer Khan
 
 I'm a  software engineer interested in **Cybersecurity**, **Web Development**, and **Artificial Intelligence**. Currently pursuing my degree in Computer Science as a second-year student at UofT. 
 
